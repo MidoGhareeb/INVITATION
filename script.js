@@ -13,10 +13,10 @@ const INVITATION = {
   timeLabel: "الساعة ٨ مساءً",
   mapUrl: "https://maps.app.goo.gl/jgwEKQyV2vvRYcqF9",
 
-  musicUrl: "/music/song.mp3",
+  musicUrl: "/song.mp3",
 
-  galleryImage1: "/image/7A2A46034368.JPG",
-  galleryImage2: "/image/7A2A46064371.JPG"
+  galleryImage1: "/7A2A46034368.JPG",
+  galleryImage2: "/7A2A46064371.JPG"
 };
 
 const $ = id => document.getElementById(id);
